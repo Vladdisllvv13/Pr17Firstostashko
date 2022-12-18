@@ -32,5 +32,12 @@
             android:text="Cancel"
             android:layout_width="100dp">
         </Button>
+
+        <Button
+            android:id="@+id/btnNext"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="Next" />
     </LinearLayout>
 </LinearLayout>
